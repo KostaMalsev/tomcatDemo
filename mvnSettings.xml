@@ -7,8 +7,8 @@
     <!-- Configure the Tomcat Maven plugin user -->
     <server>
       <id>maven-tomcat-war-deployment-server></id>
-      <username>war-deployer</username>
-      <password>maven-tomcat-plugin</password>
+      <username>admin</username>
+      <password>admin</password>
     </server>
    </servers>
 
